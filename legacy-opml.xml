@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<opml version="1.1">
+  <head>
+    <title>Planet Geospatial</title>
+    <dateModified>Mon, 03 Nov 2014 17:03:26 GMT</dateModified>
+    <ownerName>James Fee</ownerName>
+    <ownerEmail>james.fee@gmail.com</ownerEmail>
+  </head>
+  <body>
+    <outline type="rss" text="Brain Off" title="Brain Off" xmlUrl="http://brainoff.com/weblog/feed/atom"/>
+    <outline type="rss" text="Geointerpolations" title="Geointerpolations" xmlUrl="http://www.blogger.com/feeds/5593558244533031476/posts/default"/>
+    <outline type="rss" text="Spatialists" title="Spatialists" xmlUrl="http://www.ralphstraumann.ch/blog/feed/"/>
+    <outline type="rss" text="LiDAR News" title="LiDAR News" xmlUrl="http://feeds.feedburner.com/InTheScan"/>
+    <outline type="rss" text="All Points Blog" title="All Points Blog" xmlUrl="http://feeds.feedburner.com/allpointsblog-directions-magazine"/>
+    <outline type="rss" text="bbbox.me" title="" xmlUrl="http://bbox.me/blog/?feed=rss2"/>
+    <outline type="rss" text="The ENTCHEV GIS Blog" title="The ENTCHEV GIS Blog" xmlUrl="http://blog.entchev.com/atom.aspx"/>
+    <outline type="rss" text="Paul Ramsey" title="Paul Ramsey" xmlUrl="http://www.blogger.com/feeds/14903426/posts/default"/>
+    <outline type="rss" text="Dylan's Blog" title="dylan's blog" xmlUrl="http://casoilresource.lawr.ucdavis.edu/drupal/blog/2/feed"/>
+    <outline type="rss" text="AnyGeo" title="AnyGeo - GIS, Maps, Mobile and Social Location Technology" xmlUrl="http://blog.gisuser.com/feed/"/>
+    <outline type="rss" text="'sproke" title="'sproke" xmlUrl="http://www.blogger.com/feeds/3812785271700903620/posts/default"/>
+    <outline type="rss" text="It's All About Data" title="Safe Software Blog" xmlUrl="http://blog.safe.com/feed/"/>
+    <outline type="rss" text="The Spatial Miscellany" title="Spatial Miscellany" xmlUrl="http://feeds.feedburner.com/SpatialMiscellany"/>
+    <outline type="rss" text="gvSIG Mobile" title="free as mobile gis can be :: gvsig mobile on linux" xmlUrl="http://gvsigmobileonopenmoko.wordpress.com/feed/"/>
+    <outline type="rss" text="EVS-Islands" title="EVS-Islands" xmlUrl="http://feeds.feedburner.com/feedburner/GGji"/>
+    <outline type="rss" text="Spatial Ed" title="Spatial Ed's blog" xmlUrl="http://blogs.msdn.com/b/edkatibah/rss.aspx"/>
+    <outline type="rss" text="geothought" title="geothought" xmlUrl="http://www.blogger.com/feeds/8470995059384390571/posts/default"/>
+    <outline type="rss" text="nyalldawson.net" title="nyalldawson.net &#xBB; geospatial" xmlUrl="http://nyalldawson.net/tag/geospatial/feed/"/>
+    <outline type="rss" text="Letters from the SAL" title="Letters from the SAL" xmlUrl="http://www.blogger.com/feeds/1631047127449001675/posts/default"/>
+    <outline type="rss" text="GeoSprocket Community Jive" title="GeoSprocket Community Jive" xmlUrl="http://www.blogger.com/feeds/8133719028381465617/posts/default"/>
+    <outline type="rss" text="NSGIC News" title="NSGIC News" xmlUrl="http://feeds.feedburner.com/TheNsgicBlog"/>
+    <outline type="rss" text="Geospatial Science and Technology Blog" title="GEODATA POLICY" xmlUrl="http://geodatapolicy.wordpress.com/feed/"/>
+    <outline type="rss" text="geobloggers" title="&#x30B4;&#x30EB;&#x30D5;&#x7528;&#x54C1;&#x306E;&#x901A;&#x8CA9;&#x306B;&#x3064;&#x3044;&#x3066;" xmlUrl="http://feeds.feedburner.com/geobloggers"/>
+    <outline type="rss" text="oegeo" title="oegeo" xmlUrl="http://oegeo.wordpress.com/feed/"/>
+    <outline type="rss" text="What's new about OTB?" title="What's new about OTB?What's new about OTB?" xmlUrl="http://blog.orfeo-toolbox.org/feed"/>
+    <outline type="rss" text="Arnulf Christl" title="Seven of Nine : Resistance is Futile" xmlUrl="http://arnulf.us/sevendipity/index.php?/feeds/index.rss2"/>
+    <outline type="rss" text="Steve's Little World" title="Steve's Little world" xmlUrl="http://thesteve0.wordpress.com/feed/"/>
+    <outline type="rss" text="Cartographer's Toolkit" title="Cartographer's Toolkit" xmlUrl="http://feeds.feedburner.com/GretchenPetersonsBlog"/>
+    <outline type="rss" text="GIS for Archeology and CRM" title="GIS for Archaeology and CRM" xmlUrl="http://www.gisarch.com/feed/"/>
+    <outline type="rss" text="thematic mapping blog" title="thematic mapping blog" xmlUrl="http://feeds.feedburner.com/thematicmapping"/>
+    <outline type="rss" text="Mapping Each Unit of Earth: Challenges &amp; Solutions" title="Mapping Each Unit of Earth: Challenges &amp; Solutions" xmlUrl="http://www.blogger.com/feeds/4898501845117379929/posts/default"/>
+    <outline type="rss" text="Cameron Shorter" title="cameronshorter's blog" xmlUrl="http://lisasoft.com.au/blogs/cameronshorter/feed"/>
+    <outline type="rss" text="Faunalia" title="Faunalia GIS Blog" xmlUrl="http://www.faunalia.com/blog.xml"/>
+    <outline type="rss" text="Nicklas Av&#xE9;ns blog" title="Nicklas Av&#xE9;ns blog" xmlUrl="http://blog.jordogskog.no/feed/"/>
+    <outline type="rss" text="Technical Ramblings" title="Technical Ramblings" xmlUrl="http://crschmidt.net/blog/feed/"/>
+    <outline type="rss" text="Ecostudies" title="Ecostudies" xmlUrl="http://pvanb.wordpress.com/feed/"/>
+    <outline type="rss" text="Fantom Planet" title="FANTOM PLANET" xmlUrl="http://fantomplanet.wordpress.com/feed/"/>
+    <outline type="rss" text="Surveying, Mapping and GIS" title="Surveying, Mapping and GIS" xmlUrl="http://www.blogger.com/feeds/18725424/posts/default"/>
+    <outline type="rss" text="m.k.ge&#x2022;o&#x2022;mat&#x2022;ics |&#x2CC;j&#x113;&#x259;&#x2C8;matiks|" title="m.k.ge&#x2022;o&#x2022;mat&#x2022;ics |&#x2CC;j&#x113;&#x259;&#x2C8;matiks|" xmlUrl="http://www.mkgeomatics.com/wordpress/?feed=rss2"/>
+    <outline type="rss" text="Nathan's QGIS and GIS blog" title="Nathan's QGIS Blog" xmlUrl="http://nathanw.net/feed.xml"/>
+    <outline type="rss" text="MapBrief" title="MapBrief&#x2122;" xmlUrl="http://mapbrief.com/feed/"/>
+    <outline type="rss" text="FOSS4G-CEE" title="FOSS4G-CEE 2013" xmlUrl="http://2013.foss4g-cee.org/rss/"/>
+    <outline type="rss" text="Geo-Elektrika" title="Geo-Elektrika" xmlUrl="http://www.blogger.com/feeds/7324700305655282242/posts/default"/>
+    <outline type="rss" text="geo.geek.nz" title="Jithen (J) Singh {An Esri Dude}" xmlUrl="http://feeds.feedburner.com/mandown"/>
+    <outline type="rss" text="North River Geographic" title="North River Geographic Systems Inc &#xBB; Page not found" xmlUrl="http://www.northrivergeographic.com/article/feed/"/>
+    <outline type="rss" text="Shoutis" title="blog.shoutis.org" xmlUrl="http://www.blogger.com/feeds/8454280407750835604/posts/default"/>
+    <outline type="rss" text="The DigitalGlobe Blog" title="" xmlUrl=""/>
+    <outline type="rss" text="WeoBlog at WeoGeo.com" title="" xmlUrl=""/>
+    <outline type="rss" text="Spatial Knowledge" title="Spatial Knowledge" xmlUrl="http://www.spatialknowledge.eu/feed/"/>
+    <outline type="rss" text="geoMusings" title="geoMusings" xmlUrl="http://blog.geomusings.com/atom.xml"/>
+    <outline type="rss" text="AmericaView Blog" title="AmericaView Blog" xmlUrl="http://feeds.feedburner.com/AmericaviewBlog"/>
+    <outline type="rss" text="Thining in GIS" title="Thinking in GIS" xmlUrl="http://www.paolocorti.net/feed/index.xml"/>
+    <outline type="rss" text="new jersey geographer" title="new jersey geographer" xmlUrl="http://njgeo.org/feed/"/>
+    <outline type="rss" text="ACuriousAnimal" title="A Curious Animal" xmlUrl="http://feeds.feedburner.com/ACuriousAnimal"/>
+    <outline type="rss" text="GeoSolutions' Blog" title="GeoSolutions' Blog" xmlUrl="http://www.blogger.com/feeds/5176900881057973693/posts/default"/>
+    <outline type="rss" text="tommy's scratchpad" title="tommy's scratchpad" xmlUrl="http://www.kralidis.ca/blog/feed/"/>
+    <outline type="rss" text="GeoIQ Blog" title="Esri DC Blog" xmlUrl="http://feeds.feedburner.com/fortiusone"/>
+    <outline type="rss" text="LISasoft Blog" title="LISASoft blogs" xmlUrl="http://www.lisasoft.com/blog/feed"/>
+    <outline type="rss" text="Kelso's Corner" title="Kelso's Corner" xmlUrl="http://feeds.feedburner.com/KelsosCorner"/>
+    <outline type="rss" text="Mostly a GIS Guy" title="Mostly a GIS Guy" xmlUrl="http://www.blogger.com/feeds/4703254919229683389/posts/default"/>
+    <outline type="rss" text="RexHansen.com" title="RexHansen.com" xmlUrl="http://www.blogger.com/feeds/3306209722829837644/posts/default"/>
+    <outline type="rss" text="It is what it is" title="It is what it is" xmlUrl="http://www.palladiumconsulting.com/blog/sebastian/rss.xml"/>
+    <outline type="rss" text="GeoExt" title="GeoExt" xmlUrl="http://www.blogger.com/feeds/7395816038739857378/posts/default"/>
+    <outline type="rss" text="Jeff Hobbs' Intergraph and GIS Technology Blog" title="Jeff Hobbs' Intergraph and GIS Technology Blog" xmlUrl="http://feeds.feedburner.com/JeffHobbsIntergraphAndGisTechnologyBlog"/>
+    <outline type="rss" text="Location Intelligence Blog" title="Location Intelligence Blog" xmlUrl="http://li.pbbiblogs.com/feed/"/>
+    <outline type="rss" text="geographika" title="geographika" xmlUrl="http://feeds.feedburner.com/geographika_feed"/>
+    <outline type="rss" text="Socium" title="Socium" xmlUrl="http://www.blogger.com/feeds/3000221427354223389/posts/default"/>
+    <outline type="rss" text="Geopdf" title="GeoPDF" xmlUrl="http://feeds.feedburner.com/Geopdf"/>
+    <outline type="rss" text="El blog del SEXTANTE" title="El blog del SEXTANTE" xmlUrl="http://www.blogger.com/feeds/35557342/posts/default"/>
+    <outline type="rss" text="James Fee" title="James Fee" xmlUrl="http://jamesfee.tumblr.com/rss"/>
+    <outline type="rss" text="The Field Guide" title="The Field Guide" xmlUrl="http://www.blogger.com/feeds/1883623975517863992/posts/default"/>
+    <outline type="rss" text="Arc2Earth" title="Arc2Earth" xmlUrl="http://www.arc2earth.com/feed/"/>
+    <outline type="rss" text="4253" title="4253 &#xBB; geospatial" xmlUrl="http://epsg4253.wordpress.com/tag/geospatial/feed/"/>
+    <outline type="rss" text="Walt Eis" title="Walt Eis" xmlUrl="http://walteis.wordpress.com/feed/"/>
+    <outline type="rss" text="Bing Maps Blog" title="Maps Blog" xmlUrl="http://www.bing.com:80/community/site_blogs/b/maps/rss.aspx"/>
+    <outline type="rss" text="Boundless" title="Boundless &#xBB; Blog" xmlUrl="http://boundlessgeo.com/blog/feed/"/>
+    <outline type="rss" text="Gary's Bloggage" title="Mostly Maps" xmlUrl="http://www.vicchi.org/feed/"/>
+    <outline type="rss" text="geomobLDN" title="#geomob London" xmlUrl="http://geomobldn.org/rss.xml"/>
+    <outline type="rss" text="Spatial Galaxy" title="Spatial Galaxy" xmlUrl="http://spatialgalaxy.net//atom.xml"/>
+    <outline type="rss" text="The Easy GIS Blog" title="The Easy GIS Blog" xmlUrl="http://evarigisconsulting.wordpress.com/feed/"/>
+    <outline type="rss" text="Brian Noyle" title="blog.briannoyle.com" xmlUrl="http://blog.briannoyle.com/rss.xml"/>
+    <outline type="rss" text="OpenGeoData" title="OpenGeoData" xmlUrl="http://feeds.feedburner.com/Opengeodata"/>
+    <outline type="rss" text="sharpgis" title="SharpGIS" xmlUrl="http://www.sharpgis.net/syndication.axd"/>
+    <outline type="rss" text="GeoScript" title="GeoScript" xmlUrl="http://www.blogger.com/feeds/8042770441502149016/posts/default"/>
+    <outline type="rss" text="Using OpenData" title="Using OpenData" xmlUrl="http://usingopendata.wordpress.com/feed/"/>
+    <outline type="rss" text="Making Maps: DiY Cartography" title="Making Maps: DIY Cartography" xmlUrl="http://makingmaps.net/feed/"/>
+    <outline type="rss" text="knowwhere GIScussions" title="KnowWhere &#xBB; GIScussions" xmlUrl="http://knowwhereconsulting.co.uk/giscussions/feed/"/>
+    <outline type="rss" text="Mapoholic" title="Mapoholic" xmlUrl="http://mapoholic.wordpress.com/feed/"/>
+    <outline type="rss" text="Prioleau Advisors" title="Prioleau Advisors" xmlUrl="http://prioleauadv.com/feed"/>
+    <outline type="rss" text="MapFish" title="MapFish" xmlUrl="http://www.blogger.com/feeds/2677774430457039310/comments/default"/>
+    <outline type="rss" text="geomaticblog" title="geomaticblog" xmlUrl="http://geomaticblog.net/feed/"/>
+    <outline type="rss" text="Geomati.co" title="geomati.co &#xBB; Blog" xmlUrl="http://geomati.co/blog/feed/"/>
+    <outline type="rss" text="Geoinformatics Tutorial" title="Geoinformatics Tutorial" xmlUrl="http://www.blogger.com/feeds/8899179395577007966/posts/default"/>
+    <outline type="rss" text="Bill Thorp" title="billthorp.wordpress.com" xmlUrl="http://billthorp.wordpress.com/feed/"/>
+    <outline type="rss" text="Sean Gillies Blog" title="And a Laser in My Shoe" xmlUrl="http://sgillies.net/blog/feed.atom"/>
+    <outline type="rss" text="TargetGIS" title="TargetGIS" xmlUrl="http://targetgis.wordpress.com/feed/"/>
+    <outline type="rss" text="openaddresses" title="openaddresses" xmlUrl="http://www.blogger.com/feeds/5860010330281125929/posts/default"/>
+    <outline type="rss" text="Programming and the GeoWeb" title="Programming and the GeoWeb" xmlUrl="http://feeds.feedburner.com/jamesrichards"/>
+    <outline type="rss" text="digital-geography.com" title="Digital Geography" xmlUrl="http://www.digital-geography.com/tag/en/feed/"/>
+    <outline type="rss" text="GIS Lounge" title="GIS Lounge" xmlUrl="http://www.gislounge.com/feed/"/>
+    <outline type="rss" text="Geoweb Guru" title="Geoweb Guru" xmlUrl="http://www.geowebguru.com/?format=feed&amp;type=rss"/>
+    <outline type="rss" text="Into the Pudding" title="Into The Pudding" xmlUrl="http://cholmes.wordpress.com/feed/"/>
+    <outline type="rss" text="Azavea Atlas" title="Azavea Atlas" xmlUrl="http://www.azavea.com/blogs/atlas/feed/"/>
+    <outline type="rss" text="Spatial Intelligence" title="Spatial Intelligence" xmlUrl="http://feeds.feedburner.com/blogspot/wTPS"/>
+    <outline type="rss" text="got geoint?" title="got geoint?" xmlUrl="http://feeds.feedburner.com/GotGeoint"/>
+    <outline type="rss" text="ROK Technologies Blog" title="ROK Blog" xmlUrl="http://www.roktech.net/RSSRetrieve.aspx?ID=5881&amp;Type=RSS20"/>
+    <outline type="rss" text="mapz: a gis librarian" title="mapz: a gis librarian" xmlUrl="http://feeds.feedburner.com/mapz"/>
+    <outline type="rss" text="Web Map Design" title="Web Map Design" xmlUrl="http://feeds.feedburner.com/WebMapDesign"/>
+    <outline type="rss" text="Geospatial Buzz" title="Geospatial Buzz" xmlUrl="http://www.geospatialbuzz.com/feed/"/>
+    <outline type="rss" text="PostGIS Development" title="PostGIS Development Blog" xmlUrl="http://postgis.net/feed.xml"/>
+    <outline type="rss" text="Directions Magazine" title="Directions Magazine - Top Stories" xmlUrl="http://feeds.feedburner.com/directions-magazine-top-stories"/>
+    <outline type="rss" text="Geo Gears, Nuts &amp; Bolts" title="Geo Gears, Nuts &amp; Bolts" xmlUrl="http://www.blogger.com/feeds/808053412198379231/posts/default/-/English"/>
+    <outline type="rss" text="mousebird consulting" title="mousebird consulting" xmlUrl="http://www.blogger.com/feeds/2893633529075801218/posts/default"/>
+    <outline type="rss" text="GeoIQ Developer" title="GeoIQ Developer" xmlUrl="http://developer.geoiq.com/feed/"/>
+    <outline type="rss" text="uDig Blog" title="User-friendly Desktop Internet GIS" xmlUrl="http://www.blogger.com/feeds/8910993215959622697/posts/default"/>
+    <outline type="rss" text="FOSS4G 2013" title="FOSS4G 2013" xmlUrl="http://2013.foss4g.org/feed/"/>
+    <outline type="rss" text="VerySpatial" title="VerySpatial" xmlUrl="http://veryspatial.com/feed/"/>
+    <outline type="rss" text="Geospatial Elucubrations" title="Geospatial Elucubrations" xmlUrl="https://www.blogger.com/feeds/3548694469101129309/posts/default"/>
+    <outline type="rss" text="Urban Mapping Blog" title="Urban Mapping Blog" xmlUrl="http://blog.urbanmapping.com/feed/"/>
+    <outline type="rss" text="GeoJason" title="GeoJason" xmlUrl="http://geojason.info/feed/"/>
+    <outline type="rss" text="No s&#xF3;lo software" title="No s&#xF3;lo software &#xBB; Sistemas de Informaci&#xF3;n Geogr&#xE1;fica" xmlUrl="http://nosolosoftware.com/tag/sistemas-de-informacion-geografica/feed/"/>
+    <outline type="rss" text="Disruptive Geo" title="Disruptive Geo" xmlUrl="http://www.disruptivegeo.com/feed/"/>
+    <outline type="rss" text="JGrass Tech Tips" title="JGrass Tech Tips" xmlUrl="http://www.blogger.com/feeds/5970315134912558864/posts/default"/>
+    <outline type="rss" text="Spatialytics.org" title="Open Source GeoBI" xmlUrl="http://www.spatialytics.org/feed/"/>
+    <outline type="rss" text="The Fudicial Mark" title="The Fiducial Mark &#xBB; Geospatial" xmlUrl="http://feeds.feedburner.com/TheFiducialMarkGeospatial"/>
+    <outline type="rss" text="The Memory Leak" title="The Memory Leak" xmlUrl="http://ambergis.wordpress.com/feed/"/>
+    <outline type="rss" text="GIS Nuts" title="GISNuts Blog" xmlUrl="http://gisnuts.com/terra/blog/feed"/>
+    <outline type="rss" text="From High Above" title="From High Above" xmlUrl="http://aerometrex.com.au/blog/?feed=rss2"/>
+    <outline type="rss" text="Zekiah Technologies Blog" title="Zekiah Technologies Blog" xmlUrl="http://zekiah.com/index.php?q=blogfeed"/>
+    <outline type="rss" text="Random Nodes" title="Random Nodes" xmlUrl="http://www.jasonbirch.com/nodes/feed/"/>
+    <outline type="rss" text="Linfiniti Geo Blog" title="Linfiniti Geo Blog" xmlUrl="http://linfiniti.com/feed/"/>
+    <outline type="rss" text="MapLoser" title="Kate Chapman - Maploser?" xmlUrl="http://www.maploser.com/feed/"/>
+    <outline type="rss" text="Spatial Explorations" title="Blog" xmlUrl="http://www.spatialexplorations.net/blog/atom.xml"/>
+    <outline type="rss" text="Martin Davis" title="Lin.ear th.inking" xmlUrl="http://www.blogger.com/feeds/2420860529344694449/posts/default"/>
+    <outline type="rss" text="Geographic Information Systems Blog (GIS Stack Exchange)" title="Stack Exchange GIS Blog" xmlUrl="http://gis.blogoverflow.com/feed/"/>
+    <outline type="rss" text="Andrew Zolnai Blog" title="ANDREW ZOLNAI BLOG" xmlUrl="http://feeds.feedburner.com/AndrewZolnaiBlog"/>
+    <outline type="rss" text="The Sandpit" title="The Sandpit" xmlUrl="http://www.blogger.com/feeds/8656429443005102101/posts/default"/>
+    <outline type="rss" text="geops.de" title="geOps Blog" xmlUrl="http://www.geops.de/blog/spatial/feed"/>
+    <outline type="rss" text="GeoDestinations" title="GeoDestinations" xmlUrl="http://www.geodecisions.com/Blog/tabid/267/rssid/1/Default.aspx"/>
+    <outline type="rss" text="Mapgears" title="Mapgears blog" xmlUrl="http://www.mapgears.com/en/blog/archive/atom.xml"/>
+    <outline type="rss" text="My Georamblings..." title="My Georamblings..." xmlUrl="http://georamblings.com/feed/"/>
+    <outline type="rss" text="thinkwhere" title="thinkwhere" xmlUrl="http://thinkwhere.wordpress.com/feed/"/>
+    <outline type="rss" text="Mapperz - The Mapping News Blog" title="Mapperz - The Mapping News Blog" xmlUrl="http://feeds.feedburner.com/mapperz"/>
+    <outline type="rss" text="Ed Parsons" title="edparsons" xmlUrl="http://www.edparsons.com/feed/"/>
+    <outline type="rss" text="GIS in XML" title="Maps for the Web" xmlUrl="http://www.web-maps.com/gisblog/?feed=rss2"/>
+    <outline type="rss" text="Fuzzy Tolerance" title="Fuzzy Tolerance" xmlUrl="http://feeds.feedburner.com/FuzzyTolerance"/>
+    <outline type="rss" text="eSpatial Blog" title="eSpatial Blog" xmlUrl="http://feeds.feedburner.com/espatial/RSS"/>
+    <outline type="rss" text="lost in spatial" title="lost in spatial" xmlUrl="http://feeds.feedburner.com/LostInSpatial"/>
+    <outline type="rss" text="Esri: Spatial Roundtable" title="Spatial Roundtable" xmlUrl="http://feeds.esri.com/SpatialRoundtable"/>
+    <outline type="rss" text="Bing Maps for Government" title="Bing Maps For Government" xmlUrl="http://www.bing.com:80/community/site_blogs/b/govmaps/rss.aspx"/>
+    <outline type="rss" text="Learon Dalby" title="Learon Dalby" xmlUrl="http://www.blogger.com/feeds/4699301114426738490/posts/default"/>
+    <outline type="rss" text="geoDribble" title="geoDribble" xmlUrl="http://www.blogger.com/feeds/1854228541268782518/posts/default"/>
+    <outline type="rss" text="Dave Bouwman" title="blog.davebouwman.com" xmlUrl="http://blog.davebouwman.com/feed/"/>
+    <outline type="rss" text="GeoServer Blog" title="GeoServer Blog" xmlUrl="http://blog.geoserver.org/feed/"/>
+    <outline type="rss" text="Frank's Geo-Geeking" title="Frank's Geo-Geeking" xmlUrl="http://www.blogger.com/feeds/1840643319439081135/posts/default"/>
+    <outline type="rss" text="Vishful thinking..." title="Vishful thinking..." xmlUrl="http://viswaug.wordpress.com/feed/"/>
+    <outline type="rss" text="Spatial Law and Policy" title="Spatial Law and Policy" xmlUrl="http://www.blogger.com/feeds/168778176880634797/posts/default"/>
+    <outline type="rss" text="Markus Neteler" title="GFOSS - Free Software GIS at your fingertips" xmlUrl="http://www.blogger.com/feeds/34897323/posts/default"/>
+    <outline type="rss" text="%scratchworkspace%" title="%scratchworkspace%" xmlUrl="http://posdgis.wordpress.com/feed/"/>
+    <outline type="rss" text="Robin's Blog" title="Robin's Blog &#xBB; GIS" xmlUrl="http://blog.rtwilson.com/category/academic/gis/feed/"/>
+    <outline type="rss" text="Free and Open Source GIS Ramblings" title="Free and Open Source GIS Ramblings" xmlUrl="http://anitagraser.com/feed/"/>
+    <outline type="rss" text="MapDotNet Blog" title="Latest blog entries - MapDotNet" xmlUrl="http://www.mapdotnet.com/index.php/developers-center/easyblog/latest?format=feed&amp;type=rss"/>
+    <outline type="rss" text="My Corner of the Web" title="bob-roberts.net" xmlUrl="http://bob-roberts.net/feed/"/>
+    <outline type="rss" text="GIS Maps and Musings" title="GIS Maps and Musings" xmlUrl="http://gismaps.wordpress.com/feed/"/>
+    <outline type="rss" text="Don Meltz" title="Don Meltz &#xBB; Blog" xmlUrl="http://www.donmeltz.com/news/blog/feed/"/>
+    <outline type="rss" text="GIS Cloud" title="GIS Cloud" xmlUrl="http://www.giscloud.com/feed/"/>
+    <outline type="rss" text="Open Source Computing and GIS in the UK" title="Open Source Computing and GIS in the UK" xmlUrl="http://feeds.feedburner.com/ComputingGisAndArchaeologyInTheUk"/>
+    <outline type="rss" text="SouthernTip" title="SouthernTip" xmlUrl="http://grimmeister.wordpress.com/feed/"/>
+    <outline type="rss" text="PerryGeo" title="Perrygeo" xmlUrl="http://blog.perrygeo.net/atom.xml"/>
+    <outline type="rss" text="The Earth is Square" title="The Earth Is Square" xmlUrl="http://feeds.feedburner.com/TheEarthIsSquare"/>
+    <outline type="rss" text="The Big Blue Thread" title="Big Blue Thread" xmlUrl="http://blog.epa.gov/bigbluethread/feed/"/>
+    <outline type="rss" text="Ogle Earth" title="Ogle Earth" xmlUrl="http://feeds.ogleearth.com/ogleearth"/>
+    <outline type="rss" text="The Swordpress" title="The Swordpress" xmlUrl="http://thes.wordpress.com/feed/"/>
+    <outline type="rss" text="geopublishing.org" title="geopublishing.org" xmlUrl="http://en.geopublishing.org/rss.xml"/>
+    <outline type="rss" text="The Map Guy(de)" title="The Map Guy(de)" xmlUrl="http://www.blogger.com/feeds/1951542926024108564/posts/default"/>
+    <outline type="rss" text="Cartoscape" title="Cartoscape" xmlUrl="http://blog.cartoscape.com/feed.xml"/>
+    <outline type="rss" text="Track Profiler Blog" title="TrackProfiler blog" xmlUrl="http://feeds.feedburner.com/TrackProfilerBlog"/>
+    <outline type="rss" text="izwe" title="izwe" xmlUrl="http://feeds.feedburner.com/izwe"/>
+    <outline type="rss" text="Let's Push Things Forward" title="Let's Push Things Forward" xmlUrl="http://www.blogger.com/feeds/15324911/posts/default"/>
+    <outline type="rss" text="Geo-preneur" title="Geo-preneur" xmlUrl="http://blog.burhum.com/rss"/>
+    <outline type="rss" text="Between the Poles" title="Between the Poles" xmlUrl="http://feeds.feedburner.com/typepad/zeissg/geospatial"/>
+    <outline type="rss" text="Galdos Systems" title="Galdos Systems Inc." xmlUrl="http://www.galdosinc.com/feed"/>
+    <outline type="rss" text="gisn8" title="gisn8" xmlUrl="http://www.blogger.com/feeds/1381809465952493828/posts/default"/>
+    <outline type="rss" text="Greetings from Manasquan, NJ" title="Greetings from Manasquan, NJ" xmlUrl="http://www.blogger.com/feeds/7925239108044178055/posts/default"/>
+    <outline type="rss" text="BostonGIS Blog" title="BostonGIS Blog" xmlUrl="http://www.bostongis.com/blog/index.php?/feeds/index.rss2"/>
+    <outline type="rss" text="map butcher" title="map butcher" xmlUrl="http://mapbutcher.com/blog/feed/"/>
+    <outline type="rss" text="Azavea Labs" title="Azavea Labs" xmlUrl="http://www.azavea.com/blogs/labs/feed/"/>
+    <outline type="rss" text="How 2 Map" title="How 2 Map" xmlUrl="http://www.blogger.com/feeds/4367289903826616184/posts/default"/>
+    <outline type="rss" text="Spatiallity" title="Spatiality" xmlUrl="http://spatialityblog.com/feed/"/>
+    <outline type="rss" text="DeLorme Professional Weblog" title="The DeLorme Weblog" xmlUrl="http://blog.delorme.com/feed/"/>
+  </body>
+</opml>
